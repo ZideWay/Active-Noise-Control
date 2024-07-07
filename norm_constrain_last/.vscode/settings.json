@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+      "main.h": "c",
+      "adaptivefilter.h": "c",
+      "adaptivefilter_test.h": "c",
+      "randn.h": "c"
+  },
+  "cmake.generator": "MinGW Makefiles",
+  "cmake.cmakePath": "D:\\cmake-3.25.1-windows-x86_64\\bin\\cmake.exe",
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

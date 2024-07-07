@@ -1,0 +1,32 @@
+[
+{
+  "directory": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/build",
+  "command": "\"D:\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe\" -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_C.rsp -g -o CMakeFiles\\common.dir\\src\\AdaptiveFilter.c.obj -c G:\\ANC_ITEM\\stduy6.6\\norm_constrain_last\\src\\AdaptiveFilter.c",
+  "file": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/src/AdaptiveFilter.c"
+},
+{
+  "directory": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/build",
+  "command": "\"D:\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe\" -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_C.rsp -g -o CMakeFiles\\common.dir\\src\\AdaptiveFilter_test.c.obj -c G:\\ANC_ITEM\\stduy6.6\\norm_constrain_last\\src\\AdaptiveFilter_test.c",
+  "file": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/src/AdaptiveFilter_test.c"
+},
+{
+  "directory": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/build",
+  "command": "\"D:\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe\" -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_C.rsp -g -o CMakeFiles\\common.dir\\src\\conv.c.obj -c G:\\ANC_ITEM\\stduy6.6\\norm_constrain_last\\src\\conv.c",
+  "file": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/src/conv.c"
+},
+{
+  "directory": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/build",
+  "command": "\"D:\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe\" -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_C.rsp -g -o CMakeFiles\\common.dir\\src\\main.c.obj -c G:\\ANC_ITEM\\stduy6.6\\norm_constrain_last\\src\\main.c",
+  "file": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/src/main.c"
+},
+{
+  "directory": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/build",
+  "command": "\"D:\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe\" -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_C.rsp -g -o CMakeFiles\\common.dir\\src\\randn.c.obj -c G:\\ANC_ITEM\\stduy6.6\\norm_constrain_last\\src\\randn.c",
+  "file": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/src/randn.c"
+},
+{
+  "directory": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/build",
+  "command": "\"D:\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe\"  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c G:\\ANC_ITEM\\stduy6.6\\norm_constrain_last\\src\\main.c",
+  "file": "G:/ANC_ITEM/stduy6.6/norm_constrain_last/src/main.c"
+}
+]

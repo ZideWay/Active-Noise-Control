@@ -1,0 +1,3 @@
+D:\cmake-3.25.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\common.dir/objects.a
+"D:\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\mingw64\bin\ar.exe" qc CMakeFiles\common.dir/objects.a @CMakeFiles\common.dir\objects1
+"D:\x86_64-8.1.0-release-win32-seh-rt_v6-rev0 (1)\mingw64\bin\x86_64-w64-mingw32-gcc.exe" -g -shared -o G:\ANC_ITEM\stduy6.6\norm_constrain_last\bin\libcommon.dll -Wl,--out-implib,libcommon.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\common.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\common.dir\linkLibs.rsp
